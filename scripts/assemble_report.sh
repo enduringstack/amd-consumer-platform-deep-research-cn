@@ -28,7 +28,7 @@ parts=(
   printf '本报告覆盖 Ryzen 桌面/移动/APU、Ryzen AI/AI Max、Threadripper、Radeon、掌机、mini PC、半定制，以及 EPYC、Instinct、Embedded、Xilinx 自适应计算、Pensando DPU 和端到端软件体系。\n\n'
   for part in "${parts[@]}"; do
     printf '\n---\n\n'
-    sed '1s/^# /## /; s/^## /### /; s/^### /#### /; s/^#### /##### /' "$repo_dir/$part"
+    sed -E 's/^(#{1,5})([[:space:]])/#\1\2/' "$repo_dir/$part"
   done
 } > "$output"
 

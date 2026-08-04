@@ -14,7 +14,7 @@
 - [A010] AMD, “Ryzen Threadripper Workstation Processors.” https://www.amd.com/en/products/processors/workstations/ryzen-threadripper.html — 9000/PRO、TRX50/WRX90。
 - [A011] AMD, “Ryzen Laptop Processors.” https://www.amd.com/en/products/processors/laptop/ryzen.html — 移动家族与 OEM 产品入口。
 - [A012] AMD, “Graphics Specifications.” https://www.amd.com/en/products/specifications/graphics.html — Radeon 逐 SKU 规格数据库。
-- [A014] AMD, “Radeon RX 9070 Series,” 2025-02-28. https://www.amd.com/en/newsroom/press-releases/2025-2-28-amd-unveils-next-generation-amd-rdna-4-architect.html — RDNA 4、FSR 4 与上市信息。
+- [A014] AMD, “Radeon RX 9070 Series,” 2025-02-28. https://www.amd.com/en/newsroom/press-releases/2025-2-28-amd-unveils-next-generation-amd-rdna-4-architectu.html — RDNA 4、FSR 4 与上市信息。
 - [A015] AMD, “Radeon RX 7900 XTX.” https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7900xtx.html — RDNA 3 chiplet 独显规格。
 - [A016] AMD, “Radeon PRO Professional Graphics.” https://www.amd.com/en/products/graphics/workstations.html — 专业显卡组合与认证定位。
 - [A017] AMD, “AMD Advantage.” https://www.amd.com/en/gaming/advantage.html — CPU/GPU/OEM 协同计划。
@@ -64,3 +64,8 @@
 - [A078] AMD, “AMD Secure Technology.” https://www.amd.com/en/products/processors/technologies/pro-technologies.html — 安全、管理与 PRO 定位。
 - [A080] AMD, “Newsroom.” https://www.amd.com/en/newsroom.html — 上市、合作与路线图公告索引。
 - [A081] AMD, “AMD Gives Consumers and Businesses More AI PC Options,” 2026-03-02. https://www.amd.com/en/newsroom/press-releases/2026-3-2-amd-gives-consumers-and-businesses-more-ai-pc-opti.html — Ryzen AI 400 桌面与工作站正式扩展。
+- [A082] AMD, “Software Optimization Guide for AMD Family 10h and 12h Processors,” Rev. 3.13, 2011-02. https://www.amd.com/content/dam/amd/en/documents/archived-tech-docs/software-optimization-guides/40546.pdf — Family 10h/12h 缓存、内存与指令优化。
+- [A083] AMD, “Software Optimization Guide for AMD Family 15h Processors,” Rev. 3.08, 2014-01. https://www.amd.com/content/dam/amd/en/documents/archived-tech-docs/software-optimization-guides/47414_15h_sw_opt_guide.pdf — Bulldozer 家族模块资源和软件优化。
+- [A084] AMD, “Software Optimization Guide for AMD Family 17h Processors,” Rev. 3.01. https://docs.amd.com/v/u/en-US/55723_3.01 — Zen 家族缓存、预取、NUMA 与数据布局。
+- [A085] AMD, “AMD Expands Leadership Data Center Portfolio … at Data Center and AI Technology Premiere,” 2023-06-13. https://www.amd.com/en/newsroom/press-releases/2023-6-13-amd-expands-leadership-data-center-portfolio-with-.html — MI300、EPYC 和软件生态的正式活动框架。
+- [A086] AMD, “AMD Unveils Vision for an Open AI Ecosystem … at Advancing AI 2025,” 2025-06-12. https://www.amd.com/en/newsroom/press-releases/2025-6-12-amd-unveils-vision-for-an-open-ai-ecosystem-detai.html — MI350、ROCm、开放机架与 Helios 预览。

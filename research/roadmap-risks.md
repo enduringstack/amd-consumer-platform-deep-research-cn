@@ -16,7 +16,7 @@ RX 9000 的上市得到 2025 年 10-K 对 Radeon 游戏 GPU需求的确认；具
 
 ## 3. 数据中心正式方向
 
-AMD 已发布 5th Gen EPYC 9005 与 Instinct MI350；Advancing AI 2025 披露开放 AI 平台与 Helios 方向。[A032][A034][A034] 公司在 10-K 表述 Instinct 采用年度节奏，这是一项战略目标，不是每年所有 SKU 都按同一时间一般可用。
+AMD 已发布 5th Gen EPYC 9005 与 Instinct MI350。[A032][A034] Advancing AI 2025 披露开放 AI 平台并预览 Helios 方向。[A086] 公司在 2025 年 10-K 表述 Instinct 路线采用年度节奏；这是一项公司战略目标，不是每年所有 SKU 都按同一时间一般可用。[A001]
 
 Helios 的意义是 EPYC、Instinct、Pensando、机架互连与 ROCm共同设计。对路线验收应看：最终 GPU/CPU/NIC数量与功耗；机架供电和液冷；OEM/ODM系统；ROCm容器；RCCL多节点效率；可服务性和交付。只有发布会框图不足以证明生产成熟。
 

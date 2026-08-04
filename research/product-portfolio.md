@@ -46,7 +46,7 @@ EPYC 还作为 GPU 主机。Instinct 平台需要 CPU 提供 PCIe、内存、存
 
 ## 6. Instinct：从单 GPU 到 AI 系统
 
-Instinct 是数据中心 GPU 加速器家族，采用 CDNA，覆盖 MI200、MI300、MI325、MI350 等。产品单位可能是 PCIe 卡、OAM 模组、八 GPU UBB/平台或整机，规格不可混用。MI300X 的 192GB HBM3 和平台互连适合大模型，MI300A 将 CPU/GPU 组合用于 HPC APU。[A035] AMD 在 2023 年 Data Center and AI Technology Premiere 正式把 MI300、EPYC 与平台合作纳入同一发布框架，这为后续系统化路线提供了公开锚点。[A035]
+Instinct 是数据中心 GPU 加速器家族，采用 CDNA，覆盖 MI200、MI300、MI325、MI350 等。产品单位可能是 PCIe 卡、OAM 模组、八 GPU UBB/平台或整机，规格不可混用。MI300X 的 192GB HBM3 和平台互连适合大模型，MI300A 将 CPU/GPU 组合用于 HPC APU。[A035] AMD 在 2023 年 Data Center and AI Technology Premiere 正式把 MI300、EPYC 与软件生态合作纳入同一发布框架，这为后续系统化路线提供了公开锚点。[A085]
 
 MI350X/MI355X 基于 CDNA 4，官方页列出最多 256 CU、288GB HBM3E、8TB/s 峰值理论带宽和多种低精度。[A034] MI355X 更高功耗/冷却定位与 MI350X 不同；MI350P PCIe 卡又面向现有服务器部署。比较 NVIDIA B200 时必须对齐 OAM/SXM/PCIe、功耗、稀疏、数据类型和软件版本。
 
@@ -56,7 +56,7 @@ Instinct 产品价值分四层。硅层决定矩阵、向量、HBM 和互连；�
 
 ## 7. Helios 与机架级方向
 
-AMD 在 Advancing AI 2025 正式介绍以 Instinct、EPYC、Pensando 和 ROCm 组成的开放 AI 系统方向，并披露 Helios 机架级设计。[A034] “机架”意味着供电、液冷、管理网络、GPU 域和东西向网络共同设计，而不是把多台服务器装进柜。
+AMD 在 Advancing AI 2025 正式介绍以 Instinct、EPYC、Pensando 和 ROCm 组成的开放 AI 系统方向，并预览 Helios 机架级设计。[A086] “机架”意味着供电、液冷、管理网络、GPU 域和东西向网络共同设计，而不是把多台服务器装进柜。
 
 Helios 的竞争目标是缩短客户集成时间。加速器、CPU、NIC、交换和软件由同一平台路线协调，可以减少 BIOS、固件和拓扑组合；开放标准又允许 ODM、云厂商和网络伙伴参与。风险在于开放组件的版本验证更复杂，需要 AMD 提供参考 BOM、固件矩阵和端到端支持。
 

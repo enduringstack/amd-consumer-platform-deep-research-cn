@@ -60,9 +60,9 @@ EPYC 9005是 SP5 5th Gen家族，包含 Zen 5高性能与 Zen 5c密度 SKU。末
 
 Embedded系列名后同数字可能与消费产品共享架构，却增加供货、宽温、RAS或封装。生命周期承诺以正式产品文档和合同，不能从网页长期存在推断。[A019][A059]
 
-Versal AI Edge/AI Core/Premium/Prime/HBM各自偏 AI、通用、网络收发或内存。Adaptive SoC不是 CPU+GPU APU同义，它含可编程逻辑/AI Engine和 NoC。FPGA系列还按逻辑容量、DSP、收发器和封装选。[A057][A057][A058]
+Versal AI Edge/AI Core/Premium/Prime/HBM各自偏 AI、通用、网络收发或内存。Adaptive SoC不是 CPU+GPU APU同义，它含可编程逻辑/AI Engine和 NoC。FPGA系列还按逻辑容量、DSP、收发器和封装选。[A057][A058]
 
-Pensando Pollara是 AI NIC，Salina是 DPU。端口 Gb/s不代表包处理、RDMA或集群吞吐，软件/交换生态必需。[A063][A063]
+Pensando Pollara是 AI NIC，Salina是 DPU。端口 Gb/s不代表包处理、RDMA或集群吞吐，软件/交换生态必需。[A063]
 
 ## 10. CPU 规格字段
 

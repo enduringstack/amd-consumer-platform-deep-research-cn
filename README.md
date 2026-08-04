@@ -8,7 +8,8 @@
 - 动态事实冻结在快照日；路线图只使用 AMD 正式披露。
 - 技术事实优先 AMD 产品规格、白皮书、开发文档、SEC/IR 与官方源码。
 - 峰值 TOPS/TFLOPS、厂商倍数和第三方测试必须保留精度、功耗与环境边界。
-- 62 项可访问的一手/官方来源全部由正文实际引用，引用 ID 可机械审计。
+- 67 项可访问的一手/官方来源全部由正文实际引用，引用 ID 可机械审计。
+- 自动门禁只验证 ID、URL、正文使用和 CSV 链接等结构，不验证一句话是否被来源语义支持；发布前必须人工逐句抽审。
 
 ## 文档导航
 
@@ -38,6 +39,7 @@ bash scripts/check_report.sh
 bash scripts/audit_citations.sh
 perl scripts/check_duplicates.pl
 bash scripts/check_links.sh
+bash scripts/test_quality_gates.sh
 ```
 
 `AMD_CONSUMER_PLATFORM_DEEP_RESEARCH.md` 是生成文件。修改源章节后先重新装配，再提交源文件与合并版。
