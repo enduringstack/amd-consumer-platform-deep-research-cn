@@ -1,0 +1,66 @@
+# AMD 平台来源账本
+
+> 全部链接访问于 2026-08-04。`用途` 只说明本报告如何使用该来源；厂商性能数据不自动等于独立结论。
+
+- [A001] AMD, “2025 Form 10-K,” 2026-02-04. https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000018/amd-20251227.htm — 分部、收入、风险与业务定义。
+- [A002] AMD, “Ryzen Processors for Desktops.” https://www.amd.com/en/products/processors/desktops/ryzen.html — Ryzen 9000/X3D 平台与代表规格。
+- [A003] AMD, “Processor Specifications.” https://www.amd.com/en/products/specifications/processors.html — 逐 SKU 核心、频率、TDP、内存和 I/O。
+- [A004] AMD, “Ryzen AI.” https://www.amd.com/en/products/processors/consumer/ryzen-ai.html — Ryzen AI Max/400/300 与 OEM/ISV 限制。
+- [A005] AMD, “Ryzen AI 300 Series Announcement,” 2024-06-02. https://www.amd.com/en/newsroom/press-releases/2024-6-2-amd-unveils-next-gen-zen-5-ryzen-processors-to-p.html — Zen 5、RDNA 3.5、XDNA 2 首发口径。
+- [A006] AMD, “Expanded AI PC Portfolio,” 2025-01-06. https://www.amd.com/en/newsroom/press-releases/2025-1-6-amd-announces-expanded-consumer-and-commercial-ai-.html — Ryzen AI Max 和 Ryzen AI 300 扩展。
+- [A007] AMD, “Ryzen 9 9950X.” https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x.html — 16 核 Zen 5 桌面 SKU。
+- [A008] AMD, “Ryzen 7 9700X.” https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9700x.html — 8 核 65W 桌面 SKU。
+- [A009] AMD, “Ryzen 7 9800X3D.” https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9800x3d.html — 第二代 3D V-Cache SKU。
+- [A010] AMD, “Ryzen Threadripper Workstation Processors.” https://www.amd.com/en/products/processors/workstations/ryzen-threadripper.html — 9000/PRO、TRX50/WRX90。
+- [A011] AMD, “Ryzen Laptop Processors.” https://www.amd.com/en/products/processors/laptop/ryzen.html — 移动家族与 OEM 产品入口。
+- [A012] AMD, “Graphics Specifications.” https://www.amd.com/en/products/specifications/graphics.html — Radeon 逐 SKU 规格数据库。
+- [A014] AMD, “Radeon RX 9070 Series,” 2025-02-28. https://www.amd.com/en/newsroom/press-releases/2025-2-28-amd-unveils-next-generation-amd-rdna-4-architect.html — RDNA 4、FSR 4 与上市信息。
+- [A015] AMD, “Radeon RX 7900 XTX.” https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7900xtx.html — RDNA 3 chiplet 独显规格。
+- [A016] AMD, “Radeon PRO Professional Graphics.” https://www.amd.com/en/products/graphics/workstations.html — 专业显卡组合与认证定位。
+- [A017] AMD, “AMD Advantage.” https://www.amd.com/en/gaming/advantage.html — CPU/GPU/OEM 协同计划。
+- [A019] AMD, “Ryzen Embedded.” https://www.amd.com/en/products/embedded/ryzen.html — 嵌入式 Ryzen 产品线。
+- [A021] Microsoft, “Xbox Series X Specifications.” https://www.xbox.com/en-US/consoles/xbox-series-x — Xbox 终端配置。
+- [A023] AMD, “5th Gen EPYC Architecture White Paper.” https://www.amd.com/content/dam/amd/en/documents/epyc-business-docs/white-papers/5th-gen-amd-epyc-processor-architecture-white-paper.pdf — Zen 5/5c、IOD、内存与安全。
+- [A024] AMD, “Zen 3 Core Architecture.” https://www.amd.com/en/technologies/zen-core.html — Zen 代际与核心复合体说明。
+- [A029] AMD, “3D V-Cache Technology.” https://www.amd.com/en/products/processors/technologies/3d-v-cache.html — 堆叠缓存原理与产品入口。
+- [A030] AMD, “AMD Chiplet Ecosystem White Paper,” 2024-12. https://www.amd.com/content/dam/amd/en/documents/solutions/technologies/chiplet-architecture-white-paper.pdf — chiplet 互操作、隔离与恢复。
+- [A032] AMD, “EPYC 9005 Series.” https://www.amd.com/en/products/processors/server/epyc/9005-series.html — 5th Gen EPYC 产品组合。
+- [A033] AMD, “EPYC Processor Specifications.” https://www.amd.com/en/products/specifications/server-processor.html — 服务器逐 SKU 数据。
+- [A034] AMD, “Instinct MI350 Series.” https://www.amd.com/en/products/accelerators/instinct/mi350.html — CDNA 4、HBM3E 与数据类型。
+- [A035] AMD, “Instinct MI300X.” https://www.amd.com/en/products/accelerators/instinct/mi300/mi300x.html — CDNA 3、192GB HBM3 与 OAM 平台。
+- [A036] AMD, “CDNA Architecture.” https://www.amd.com/en/technologies/cdna.html — 数据中心计算架构定位。
+- [A037] AMD, “ROCm Documentation.” https://rocm.docs.amd.com/en/latest/ — ROCm 组件与入口。
+- [A038] AMD, “ROCm Compatibility Matrix.” https://rocm.docs.amd.com/en/latest/compatibility/compatibility-matrix.html — 数据中心 GPU、OS 与版本支持。
+- [A039] AMD, “Use ROCm on Radeon and Ryzen: Compatibility.” https://rocm.docs.amd.com/projects/radeon-ryzen/en/latest/docs/compatibility/compatibility.html — 消费 GPU/APU 支持矩阵。
+- [A040] AMD, “HIP Documentation.” https://rocm.docs.amd.com/projects/HIP/en/latest/ — HIP 语言、运行时与移植。
+- [A041] AMD, “Ryzen AI Software.” https://ryzenai.docs.amd.com/en/latest/ — XDNA 模型部署工具链。
+- [A042] AMD, “Ryzen AI Software GitHub.” https://github.com/amd/RyzenAI-SW — 示例、版本与开源组件。
+- [A043] AMD, “ROCm GitHub.” https://github.com/ROCm/ROCm — ROCm 开源仓库入口。
+- [A044] Microsoft, “DirectML.” https://learn.microsoft.com/en-us/windows/ai/directml/dml — Windows GPU ML API 与执行模型。
+- [A045] AMD, “XDNA Linux Driver.” https://github.com/amd/xdna-driver — XDNA 内核驱动与支持设备。
+- [A046] AMD, “GPUOpen.” https://gpuopen.com/ — 图形开发工具与开放 SDK。
+- [A048] AMD, “FSR Technology.” https://www.amd.com/en/products/graphics/technologies/fidelityfx/super-resolution.html — FSR 代际与支持边界。
+- [A049] AMD, “Software: Adrenalin Edition.” https://www.amd.com/en/products/software/adrenalin.html — 消费显卡驱动功能。
+- [A050] Linux Kernel, “AMDGPU Driver.” https://docs.kernel.org/gpu/amdgpu/index.html — Linux 内核驱动接口。
+- [A051] AMD, “Ryzen AI Max+ 395.” https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html — 共享内存、CPU、GPU 与 NPU 代表 SKU。
+- [A052] PCI-SIG, “PCI Express.” https://pcisig.com/pci-express — PCIe 标准与代际入口。
+- [A053] CXL Consortium, “Compute Express Link.” https://computeexpresslink.org/about-cxl — CXL 协议定义。
+- [A054] AMD, “Smart Access Memory.” https://www.amd.com/en/gaming/technologies/smart-technologies.html — Resizable BAR/SAM 平台功能。
+- [A057] AMD, “Versal.” https://www.amd.com/en/products/adaptive-socs-and-fpgas/versal.html — Versal 自适应 SoC 架构定位。
+- [A058] AMD, “FPGAs.” https://www.amd.com/en/products/adaptive-socs-and-fpgas/fpga.html — FPGA 产品体系。
+- [A059] AMD, “Embedded Products.” https://www.amd.com/en/products/embedded.html — 嵌入式 CPU、GPU 与自适应计算入口。
+- [A063] AMD, “Pensando Software.” https://www.amd.com/en/solutions/data-center/networking.html — 数据中心网络与软件定位。
+- [A065] AMD, “Financial Analyst Day 2025.” https://ir.amd.com/news-events/financial-analyst-day — 正式战略和路线图入口。
+- [A067] AMD, “AMD Completes Acquisition of Xilinx,” 2022-02-14. https://www.amd.com/en/newsroom/press-releases/2022-2-14-amd-completes-acquisition-of-xilinx.html — 自适应计算并购与业务组合。
+- [A069] Intel, “Core Ultra Processors.” https://www.intel.com/content/www/us/en/products/details/processors/core-ultra.html — x86 消费端竞品产品体系。
+- [A070] Apple, “M4.” https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/ — 统一内存 SoC 竞品参照。
+- [A071] Qualcomm, “Snapdragon X Elite.” https://www.qualcomm.com/products/mobile/snapdragon/pcs-and-tablets/snapdragon-x-elite — Windows on Arm 竞品参照。
+- [A072] NVIDIA, “GeForce RTX 50 Series.” https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/ — 消费独显竞品参照。
+- [A073] Sony, “PlayStation 5 Pro Technical Seminar.” https://blog.playstation.com/2024/09/10/welcome-playstation-5-pro-the-most-visually-impressive-way-to-play-games-on-playstation/ — 半定制终端图形目标。
+- [A074] Microsoft, “Xbox Velocity Architecture.” https://news.xbox.com/en-us/2020/07/14/a-closer-look-at-xbox-velocity-architecture/ — 半定制 SoC、存储与软件协同。
+- [A075] Valve, “Steam Deck Tech Specs.” https://www.steamdeck.com/en/tech — AMD APU 掌机整机规格。
+- [A076] ASUS, “ROG Ally X Tech Specs.” https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-x-2024/spec/ — Ryzen Z1 Extreme 掌机 OEM 配置。
+- [A077] Framework, “Laptop 13 Ryzen AI 300.” https://frame.work/products/laptop13-diy-amd-ai300 — 可维修 OEM 与移动平台案例。
+- [A078] AMD, “AMD Secure Technology.” https://www.amd.com/en/products/processors/technologies/pro-technologies.html — 安全、管理与 PRO 定位。
+- [A080] AMD, “Newsroom.” https://www.amd.com/en/newsroom.html — 上市、合作与路线图公告索引。
+- [A081] AMD, “AMD Gives Consumers and Businesses More AI PC Options,” 2026-03-02. https://www.amd.com/en/newsroom/press-releases/2026-3-2-amd-gives-consumers-and-businesses-more-ai-pc-opti.html — Ryzen AI 400 桌面与工作站正式扩展。
